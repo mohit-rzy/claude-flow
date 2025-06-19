@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered development workflow system that combines session management, task tracking, and project generation capabilities for enhanced productivity with Claude.
 
+> This is still a work in progress and things might break. I will be actively updating this repo in the coming days.
+
 ## Overview
 
 This system integrates best practices from multiple proven methodologies to create a unified development workflow. It includes:
@@ -185,7 +187,9 @@ By Eyal Toledano - Implements the task management system that enables AI-driven 
 
 ### 3. [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
 
-From Switch Dimension - Contributes the project generation commands and structured development workflow patterns.
+From Rob Shocks - Contributes the project generation commands and structured development workflow patterns.
+
+(PS: some of the prompts were taken as-is from these projects)
 
 ## Features
 
@@ -213,7 +217,3 @@ This project combines work from multiple open-source projects. Please refer to t
 ## Contributing
 
 Contributions are welcome! Please ensure you maintain compatibility with the core systems and follow the established patterns from the original projects.
-
-## Acknowledgments
-
-Special thanks to Ian Nuttall, Eyal Toledano, and the Switch Dimension team for creating and sharing these valuable tools that make AI-assisted development more efficient and organized.
